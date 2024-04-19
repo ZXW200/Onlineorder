@@ -34,8 +34,7 @@
         <span>* * *</span>
         <p>
           Welcome to Pastry Restaurant. We are committed to providing you with an unforgettable dining experience, allowing every guest to feel the warmth and joy of home. <br />
-          Since its opening, we have always insisted on using the freshest ingredients and unique cooking techniques to present authentic Western cuisine to you. <br />
-          The single inspiration comes from the essence of classic Western cuisine, while incorporating modern innovative elements, aiming to satisfy various taste buds. <br />
+         
 
         </p>
         <div>ABOUT US</div>
@@ -55,7 +54,7 @@
           <div class="text text-center">
             <h3>Baked Potato Pizza</h3>
             <p>
-              Roasted potato pizza is a unique and delicious twist of traditional pizza, blending the comfortable flavor of roasted potatoes. Using typical baked potato toppings, spread cheddar cheese, yogurt, crispy bacon chunks, and scallions on top of the pizza crust.
+              Roasted potato pizza  Using typical baked potato toppings, spread cheddar cheese, yogurt, crispy bacon chunks, and scallions on top of the pizza crust.
             </p>
             <p class="price">$20.45</p>
           </div>
