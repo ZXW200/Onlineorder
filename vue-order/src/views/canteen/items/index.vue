@@ -362,10 +362,10 @@ export default {
       const isLt2M = file.size / 1024 / 1024 < 2;
 
       if (!(isJPG || isPNG || isBMP || isGIF)) {
-        this.$message.warning("图片格式不正确");
+        this.$message.warning("The image format is incorrect");
       }
       if (!isLt2M) {
-        this.$message.warning("图片大小不能超过 2 MB");
+        this.$message.warning("The image size cannot exceed 2 MB");
       }
       return (isJPG || isPNG || isBMP || isGIF) && isLt2M;
     },
