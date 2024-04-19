@@ -164,7 +164,7 @@ export default {
         },
         {
           value: 4,
-          label: "DELIVERED",
+          label: "FINISH",
         },
         {
           value: 5,
