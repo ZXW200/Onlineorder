@@ -7,12 +7,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * 用户视图对象 users
- *
- * @author ruoyi
- * @date 2023-12-01
- */
+
 @Data
 @ExcelIgnoreUnannotated
 public class UsersVo implements Serializable {
