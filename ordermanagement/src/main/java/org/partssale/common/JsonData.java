@@ -4,11 +4,7 @@ import org.springframework.http.HttpStatus;
 
 import java.io.Serializable;
 
-/**
- * 响应信息主体
- *
- * @author Lion Li
- */
+
 
 public class JsonData {
 
