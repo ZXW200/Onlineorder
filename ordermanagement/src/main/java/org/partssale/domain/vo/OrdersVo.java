@@ -7,12 +7,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * 订单视图对象 orders
- *
- * @author ruoyi
- * @date 2023-12-01
- */
+
 @Data
 @ExcelIgnoreUnannotated
 public class OrdersVo implements Serializable {
