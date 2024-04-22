@@ -7,12 +7,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
-/**
- * 订单详细视图对象 order_details
- *
- * @author ruoyi
- * @date 2023-12-01
- */
+
 @Data
 @ExcelIgnoreUnannotated
 public class OrderDetailsVo implements Serializable {
