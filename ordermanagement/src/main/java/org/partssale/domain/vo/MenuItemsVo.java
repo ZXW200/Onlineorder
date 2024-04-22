@@ -7,12 +7,7 @@ import lombok.Data;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
-/**
- * 菜单项视图对象 menu_items
- *
- * @author ruoyi
- * @date 2023-12-01
- */
+
 @Data
 @ExcelIgnoreUnannotated
 public class MenuItemsVo implements Serializable {
