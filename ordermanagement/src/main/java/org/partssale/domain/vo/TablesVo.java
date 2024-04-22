@@ -6,12 +6,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * 餐桌视图对象 tables
- *
- * @author ruoyi
- * @date 2023-12-01
- */
+
 @Data
 @ExcelIgnoreUnannotated
 public class TablesVo implements Serializable {
