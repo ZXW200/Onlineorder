@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 
-import '@/assets/style/ruoyi.scss' // ruoyi css
+import '@/assets/style/reset.scss' // reset css
 import store from './store'
 // 引入element
 import 'element-ui/lib/theme-chalk/index.css';
